@@ -1,13 +1,13 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Ajuser_v2+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+jk_v1+WA+Bot...;Created+by+jk....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="JK BOT.jpg""width="200" height="200
                                   "/>
   <p align="center">
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-red?&style=for-the-badge"></a>
+<a href="#"><img title="jk efx_v1" src="https://img.shields.io/badge/-jk efx v1-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
