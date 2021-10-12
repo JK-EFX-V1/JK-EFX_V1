@@ -11,11 +11,11 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/jk001"><img title="jk" src="https://img.shields.io/badge/author-jk001?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/jk001">jk</a> to make it public
+Project created by <a href="https://github.com/aju001">aju</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,13 +25,13 @@ Project created by <a href="https://github.com/jk001">jk</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/jk001/jk efx_v1 ">
-    <img src="https://img.shields.io/github/repo-size/jk001/jk efx_v1?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/aju001/Ajuser_v2 ">
+    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/jk001/followers"><img title="Followers" src="https://img.shields.io/github/followers/jk001?color=grey&style=plastic"></a>
-<a href="https://github.com/jk001/jk efx_v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jk001/jkser?color=grey&style=plastic"></a>
-<a href="https://github.com/jk001/jk efx_v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jk001/jk efx_v1?color=grey&style=plastic"></a>
-<a href="https://github.com/jk001/jk efx_v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jk001/jk efx_v1?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
+<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
+<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
+<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/jk001">jk</a> to make it public
     
 <p align="center">
 
-<a href="https://instagram.com/__jkz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/jk001">jk</a> to make it public
 <a href="https://youtu.be/dm_kVZ0m2eY" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 ```
   
-jk efx_v1 Userbot is Open Source software open to development. 
+Ajuser_v2 Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -71,9 +71,9 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@jk0011/jkserv2-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jk001/jk efx_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuser_v2)
      </div>
 <br>
 <br >
@@ -87,8 +87,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/jk001/jk efx_v1
-$ cd jk efx_v1
+$ git clone https://github.com/aju001/Ajuser_v2
+$ cd Ajuser_v2
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -97,8 +97,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/jk001/jk efx_v1
-$ cd jk efx_v1
+$ git clone https://github.com/aju001/Ajuser_v2
+$ cd Ajuser_v2
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -136,9 +136,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![jk](https://github.com/jk001.png?size=100)](https://github.com/jk001)
+  [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
 
-[jk](https://github.com/jk001)  
+[aju](https://github.com/aju001)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
